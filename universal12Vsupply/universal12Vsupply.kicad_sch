@@ -2721,7 +2721,7 @@
     (property "Value" "4.7u" (at 279.4 53.34 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_Coilcraft_XAL1010-XXX" (at 279.4 50.8 0)
+    (property "Footprint" "FootprintLibrary:L_Coilcraft_XAL1010-XXX_handsolder" (at 279.4 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 279.4 50.8 0)
