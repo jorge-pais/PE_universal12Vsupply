@@ -2334,7 +2334,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 327.66 40.64 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 327.66 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 07f9f1d1-73a5-4969-98a0-dccb0f15f702)
     (property "Reference" "C4" (at 328.93 38.1 0)
@@ -2754,7 +2754,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 335.28 40.64 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 335.28 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 313a8cb0-a4af-4937-8d63-787b33e1e4ee)
     (property "Reference" "C6" (at 336.55 38.1 0)
@@ -2783,7 +2783,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 320.675 40.64 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 320.675 40.64 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3176253a-232e-404a-a24b-24cf00b07653)
     (property "Reference" "C3" (at 321.945 38.1 0)
@@ -3856,7 +3856,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 57.785 128.905 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 57.785 128.905 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a22a16d3-ca5d-41c7-97f0-7a34ef729d9a)
     (property "Reference" "C7" (at 59.055 126.365 0)
@@ -4617,7 +4617,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 72.39 128.905 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 72.39 128.905 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8c59565-6f1a-429b-bcd2-3d94cf4f9373)
     (property "Reference" "C9" (at 73.66 126.365 0)
@@ -4646,7 +4646,7 @@
     )
   )
 
-  (symbol (lib_id "Device:C") (at 64.77 128.905 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 64.77 128.905 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8dc4fcd-109f-45bf-a2ba-e6035d6100b1)
     (property "Reference" "C8" (at 66.04 126.365 0)

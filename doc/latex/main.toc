@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction/Specification}{3}{}%
+\contentsline {section}{\numberline {2}Design}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Circuit}{3}{}%
+\contentsline {subsubsection}{\numberline {2.1.1}Switching Frequency}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.2}Feedback Network}{4}{}%
+\contentsline {subsubsection}{\numberline {2.1.3}Inductor Selection}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.4}Output Capacitors}{5}{}%
+\contentsline {subsubsection}{\numberline {2.1.5}Input Capacitors}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.6}Current Limit}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.7}MOSFETs}{6}{}%
+\contentsline {subsubsection}{\numberline {2.1.8}Frequency Compensation}{7}{}%
+\contentsline {subsubsection}{\numberline {2.1.9}Boilerplate Circuitry}{8}{}%
+\contentsline {subsection}{\numberline {2.2}Power Losses \& Efficiency}{8}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}MOSFETs}{8}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Inductor}{10}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Capacitor Losses}{11}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Sense resistor}{12}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Total Losses}{13}{}%
+\contentsline {subsubsection}{\numberline {2.2.6}Efficiency}{14}{}%
+\contentsline {subsection}{\numberline {2.3}Board}{14}{}%
+\contentsline {section}{\numberline {3}Measurements}{17}{}%

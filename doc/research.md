@@ -1,4 +1,4 @@
-# Power Electronics Project
+# Power Electronics Project - Design
 
 ***Theme:*** Universal 12V supply. IN: 5-18V. OUT: 12V, 1A
 
@@ -10,7 +10,7 @@ https://be.farnell.com/en-BE/texas-instruments/lm5176pwpt/dc-dc-ctrl-sync-buck-b
 
 In the datasheet, a simple buck boost implementation is shown as figure 8-1.
 
-![Buck Boost Application Schamatic](./figures/baseschematic.png)
+![Buck Boost Application Schamatic](./latex/figures/exampleSchematic.png)
 
 ### Design
 
@@ -44,7 +44,7 @@ $$I_{Lmax} = \frac{V_{out}I_{outMAX}}{0.9V_{inMIN}}= 6.66\text A$$
 
 Given this, and that the datasheet also under specs this component quite a bit, the following $4.7\mu \text H$ inductor can be utilized: https://be.farnell.com/en-BE/bourns/srp1038a-4r7m/inductor-4-7uh-20-10a-shielded/dp/2434028
 
-$$I_{Lpeak} = I_{Lmax} \frac{V_{inMIN}(V_{out}-V_{inMIN})}{2L_1F_{sw}V_{out}} \approx 6.66 \text A$$
+$$I_{Lpeak} = I_{Lmax} + \frac{V_{inMIN}(V_{out}-V_{inMIN})}{2L_1F_{sw}V_{out}} \approx 6.66 \text A$$
 
 #### Output Capacitor
 
