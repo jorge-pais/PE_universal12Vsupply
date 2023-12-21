@@ -6,6 +6,8 @@ This project is a simple and efficient universal 12V switch mode power supply ci
 
 Both the schematic capture and PCB design were done utilizing KiCad 7. These project files can be found the `universal12Vsupply` folder.
 
+It is possible to preview the project online without KiCad through [KiCanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fjorge-pais%2FPE_universal12Vsupply%2Ftree%2Fmain%2Funiversal12Vsupply).
+
 ![Circuit schematic](figures/finalSchematic.png)
 
 #### Front View
